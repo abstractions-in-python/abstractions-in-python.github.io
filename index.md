@@ -34,6 +34,7 @@ Tools and development environments are important, but they also change and evolv
 
 ### Acknowledgements
 
+Lindsey Kuper and Peter Alvaro have taught this class at UCSC, and provided invaluable feedback and suggestions. 
 The author is much indebted to Philippe Bossut for inspiration about the approach, and to Massimo Di Pierro for his many suggestions on topics to cover and methods. 
 
 ### Accessing the Content
@@ -48,9 +49,9 @@ Using Colab [requires a bit of setup](/colab_setup.html), but has the advantage 
 
 * [Introduction to Python 3](/0_introduction_to_python_3.html)
 * [Classes](/1_classes.html) 
-* [Data structures and their access characteristics](https://drive.google.com/file/d/1yRmE5nCeW0h9_sQy-MRieCZYBLBmY3lE/view?usp=sharing)
+* [Data structures and their access characteristics](2_data_structures.html)
+
 * [Recursion](https://drive.google.com/file/d/1ouv7isWK61DA5v0-aXMwkZLPK-ZH8-b-/view?usp=sharing)
-* [Generators](https://drive.google.com/file/d/1SST42824TaYjUuXcDa6c_R6kLxE6ZiEs/view?usp=sharing)
 
 ### Part II: Structures
 
