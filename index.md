@@ -48,36 +48,36 @@ Using Colab [requires a bit of setup](/colab_setup.html), but has the advantage 
 ### Part I: Methods
 
 * [Introduction to Python 3](/0_introduction_to_python_3.html)
-* [Classes](/1_classes.html) 
-* [Data structures and their access characteristics](2_data_structures.html)
-* [Recursion](https://drive.google.com/file/d/1ouv7isWK61DA5v0-aXMwkZLPK-ZH8-b-/view?usp=sharing)
+* [Data structures and their access characteristics](1_1_data_structures.html)
+* [Recursion](1_2_recursion.html)
 
 ### Part II: Structures
 
-* [Counting stacks and queues](https://drive.google.com/file/d/1ZEwT2j4yWMcFsg8uNXV60xK0d5tq3LCy/view?usp=sharing)
-* [Sock drawers and arithmetic dictionaries](https://drive.google.com/file/d/1fcd5V9Ykm6e8--ONjMIw60zBQFYpSCJ2/view?usp=sharing)
-* [Sparse arrays](https://drive.google.com/file/d/1wiBbhjPdj8X2niE0--S8etEaTfAiTvcA/view?usp=sharing)
-* [Data tables](https://drive.google.com/file/d/1cTxt6yhUU1N5kMC5gRnM_lrBV1L9nw4h/view?usp=sharing)
-* [Stream averages and motion detection](https://drive.google.com/file/d/1rSTeGDzugEF02gwP_wEslkY1BkTwEcaH/view?usp=sharing)
-* [An interval algebra](https://drive.google.com/file/d/1yzN-zr1d8uhJoqESf5M3rt4nphJdb-Lt/view?usp=sharing)
-* [Regions](https://drive.google.com/file/d/1sFF2rjDLW1EdGFdPYYV0t91dP-Q71z9l/view?usp=sharing)
-* [Light and filters](https://drive.google.com/file/d/163h_E4XsWat8hBuPPPc0H7JdDKt0GZPW/view?usp=sharing)
+* [Classes](/2_1_classes.html) 
+* [Counting stacks and queues]()
+* [Sock drawers and arithmetic dictionaries]()
+* [Sparse arrays]()
+* [Data tables]()
+* [Stream averages and motion detection])
+* [An interval algebra]()
+* [Regions]()
+* [Light and filters]()
 
 ### Part III: From Symbolic Expressions to Machine Learning
 
-* [Mathematical expressions](https://drive.google.com/file/d/17tbBG3C5xNCZJZ3I5IMQFJYvLoLyMCgy/view?usp=sharing)
-* [Expressions as classes](https://drive.google.com/file/d/1sRqhaXfOo1JVzZyyM0CyWs_GTDCzBRu9/view?usp=sharing)
-* [From expressions to machine learning](https://drive.google.com/file/d/16KI17U6MOjdasZHIwMgtHlmk-dNc1_R7/view?usp=sharing)
-* [Machine learning with PyTorch](https://drive.google.com/file/d/1whGvUdiXI-xthY1ts-7VS_eJLaObCCN6/view?usp=sharing)
+* [Mathematical expressions]()
+* [Expressions as classes]()
+* [From expressions to machine learning]()
+* [Machine learning with PyTorch]()
 
 ### Part IV: Graphs and Dynamic Algorithms
 
-* [Graphs](https://drive.google.com/file/d/16iFSKZJ6vTfvwKwUlaiVwQv1ng00FGae/view?usp=sharing)
-* [Scheduling with dependencies](https://drive.google.com/file/d/13Bao5jM7K4VoM-QQ_kv1I1VUhGDb2QmC/view?usp=sharing)
-* [Cooking times and dynamic programming](https://drive.google.com/file/d/1Mhwc15udggBODo4l1CCjbw0731gKbvvP/view?usp=sharing)
+* [Graphs]()
+* [Scheduling with dependencies]()
+* [Cooking times and dynamic programming]()
 
 ### Part V: Search
 
-* [Sudoku](https://drive.google.com/file/d/1HXsCrHp8HqHJPF9RR1ZcfG7ehr_qP8e5/view?usp=sharing)
-* [SAT](https://drive.google.com/file/d/1Gtesc9VMy7BlKh3ZpgRE9MvLpMzZWieg/view?usp=sharing)
-* [From Sudoku to SAT](https://drive.google.com/file/d/1Bc4lymTWsAsooBfUwoV-Zqu0_Sgyw6Kn/view?usp=sharing)
+* [Sudoku]()
+* [SAT]()
+* [From Sudoku to SAT]()

@@ -8,3 +8,9 @@ In this chapter, we present a more in-depth view of classes.  Topics include sta
 ## To learn more 
 
 * [The Python data model](https://docs.python.org/3/reference/datamodel.html)
+
+## Excercise sets
+
+* Implement fractions.
+* Step functions. 
+
