@@ -50,18 +50,15 @@ Using Colab [requires a bit of setup](/colab_setup.html), but has the advantage 
 * [Introduction to Python 3](/0_introduction_to_python_3.html)
 * [Data structures and their access characteristics](1_1_data_structures.html)
 * [Recursion](1_2_recursion.html)
+* [Generators]()
 
 ### Part II: Structures
 
 * [Classes](/2_1_classes.html) 
-* [Counting stacks and queues]()
-* [Sock drawers and arithmetic dictionaries]()
-* [Sparse arrays]()
-* [Data tables]()
-* [Stream averages and motion detection])
-* [An interval algebra]()
-* [Regions]()
-* [Light and filters]()
+* [Sock drawers and arithmetic dictionaries](/2_2_sock_drawers.html)
+* [Event-driven simulation]()
+* [Introduction to Numpy]()
+* [Stream averages and motion detection]()
 
 ### Part III: From Symbolic Expressions to Machine Learning
 
@@ -75,9 +72,22 @@ Using Colab [requires a bit of setup](/colab_setup.html), but has the advantage 
 * [Graphs]()
 * [Scheduling with dependencies]()
 * [Cooking times and dynamic programming]()
+* [Finding a route in a graph]()
 
 ### Part V: Search
 
 * [Sudoku]()
 * [SAT]()
 * [From Sudoku to SAT]()
+
+### Other topics
+
+The following topics are not used as part of the class, but may be of general interest. 
+
+* [Counting stacks and queues]()
+* [Sparse arrays]()
+* [Data tables]()
+* [An interval algebra]()
+* [Regions]()
+* [Light and filters]()
+
