@@ -56,7 +56,7 @@ Using Colab [requires a bit of setup](/colab_setup.html), but has the advantage 
 
 * [Classes](/2_1_classes.html) 
 * [Sock drawers and arithmetic dictionaries](/2_2_sock_drawers.html)
-* [Event-driven simulation]()
+* [Event-driven simulation](/2_3_event_driven_simulation.html)
 * [Introduction to Numpy]()
 * [Stream averages and motion detection]()
 
