@@ -57,7 +57,7 @@ Using Colab [requires a bit of setup](/colab_setup.html), but has the advantage 
 * [Classes](/2_1_classes.html) 
 * [Sock drawers and arithmetic dictionaries](/2_2_sock_drawers.html)
 * [Event-driven simulation](/2_3_event_driven_simulation.html)
-* [Introduction to Numpy]()
+* [Introduction to Numpy](/2_4_introduction_to_numpy.html)
 * [Stream averages and motion detection]()
 
 ### Part III: From Symbolic Expressions to Machine Learning
