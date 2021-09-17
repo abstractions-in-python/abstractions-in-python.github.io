@@ -11,7 +11,7 @@ Generators are a basic notion of Python, and are instrumental in the implementat
 
 ## Video
 
-* [Generators and Recursion]()
+* [Generators and Recursion](https://drive.google.com/file/d/1QRcLMNReMdMYffSWrFEh5WU6Qi8iuYDb/view?usp=sharing)
 
 ## Possible problem sets
 
