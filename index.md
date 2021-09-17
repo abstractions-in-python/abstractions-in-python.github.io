@@ -50,7 +50,7 @@ Using Colab [requires a bit of setup](/colab_setup.html), but has the advantage 
 * [Introduction to Python 3](/0_introduction_to_python_3.html)
 * [Data structures and their access characteristics](1_1_data_structures.html)
 * [Recursion](1_2_recursion.html)
-* [Generators]()
+* [Generators](1_3_generators.html)
 
 ### Part II: Structures
 

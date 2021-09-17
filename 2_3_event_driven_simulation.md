@@ -19,6 +19,6 @@ In this chapter, we develop a simple [event-driven simulator](https://en.wikiped
 * [Gamma distribution](https://en.wikipedia.org/wiki/Gamma_distribution).
 * [Generating random numbers according to distributions in numpy](https://numpy.org/doc/stable/reference/random/index.html).
 
-## Possible exercise sets
+## Possible problem sets
 
-* The buses go round and round
+* The buses go round and round.

@@ -15,9 +15,10 @@ In this chapter, we develop a class to model a sock drawer - a drawer where one 
 
 * [The Python data model](https://docs.python.org/3/reference/datamodel.html)
 
-## Possible excercise sets
+## Possible problem sets
 
 * Implement step functions. 
+* Implement interval algebras.
 
 
 
