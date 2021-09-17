@@ -7,4 +7,5 @@
 
 ## Videos
 
+* [A very brief introduction to Numpy](https://drive.google.com/file/d/1brscqJt4nDCegsuGDxr2WZa-wdfmYwdJ/view?usp=sharing)
 
