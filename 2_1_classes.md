@@ -5,11 +5,11 @@ In this chapter, we present a more in-depth view of classes.  Topics include sta
 ## Notebook
 
 * [GitHub](https://github.com/abstractions-in-python/abstractions-in-python.github.io/blob/master/notebooks/Classes_chapter.ipynb) 
-* [Colab](https://drive.google.com/file/d/1G-DxUTrpH5iwZSrs9DGYzmOkHBIeh5bU/view?usp=sharing).
+* [Colab](https://drive.google.com/file/d/1G-DxUTrpH5iwZSrs9DGYzmOkHBIeh5bU/view?usp=sharing)
 
 ## Videos
 
-* [Classes](https://drive.google.com/file/d/1uK39twEpdaneBATpZINxd16OOMQqg3K6/view?usp=sharing).
+* [Classes](https://drive.google.com/file/d/1uK39twEpdaneBATpZINxd16OOMQqg3K6/view?usp=sharing)
 
 ## To learn more 
 
