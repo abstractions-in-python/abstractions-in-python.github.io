@@ -7,7 +7,7 @@ Here we give an introduction to recursion, looking at some simple and some class
 ## Notebooks
 
 * [Github](https://github.com/abstractions-in-python/abstractions-in-python.github.io/blob/master/notebooks/Recursion_chapter.ipynb)
-* [Colab](https://drive.google.com/file/d/1ouv7isWK61DA5v0-aXMwkZLPK-ZH8-b-/view?usp=sharing)
+* [Colab](https://drive.google.com/file/d/1phOOUVRK00TF61zj44dkR9aoi8FyXt0k/view?usp=sharing)
 
 ## Video
 
