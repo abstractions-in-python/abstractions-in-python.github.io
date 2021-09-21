@@ -3,7 +3,7 @@
 ## Notebook
 
 * [GitHub](https://github.com/abstractions-in-python/abstractions-in-python.github.io/blob/master/notebooks/Data_Structures_and_Their_Access_Characteristics_chapter.ipynb)
-* [Colab](https://drive.google.com/file/d/1yRmE5nCeW0h9_sQy-MRieCZYBLBmY3lE/view?usp=sharing)
+* [Colab](https://drive.google.com/file/d/1oQdh_gfGfL6AqdRCgA7M9PLqUByGkS9t/view?usp=sharing)
 
 ## Video
 
