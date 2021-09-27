@@ -18,7 +18,6 @@ Copyright 2019-21, [Luca de Alfaro](https://luca.dealfaro.com). [License: CC BY-
 * [Classes](2_1_classes.html) 
 * [Sock drawers and arithmetic dictionaries](2_2_sock_drawers.html)
 * [Event-driven simulation](/2_3_event_driven_simulation.html)
-* [Introduction to Numpy](/2_4_introduction_to_numpy.html)
 * [Stream averages and motion detection](/2_5_stream_averages_and_motion_detection.html)
 
 ## Part III: From Symbolic Expressions to Machine Learning
