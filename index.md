@@ -17,13 +17,13 @@ Copyright 2019-21, [Luca de Alfaro](https://luca.dealfaro.com). [License: CC BY-
 
 * [Classes](2_1_classes.html) 
 * [Sock drawers and arithmetic dictionaries](2_2_sock_drawers.html)
-* [Event-driven simulation](/2_3_event_driven_simulation.html)
-* [Stream averages and motion detection](/2_5_stream_averages_and_motion_detection.html)
+* [Event-driven simulation](2_3_event_driven_simulation.html)
+* [Stream averages and motion detection](2_5_stream_averages_and_motion_detection.html)
 
 ## Part III: From Symbolic Expressions to Machine Learning
 
-* [Mathematical expressions]()
-* [Expressions as classes]()
+* [Mathematical expressions](3_1_mathematical_expressions.html)
+* [Expressions as classes](3_2_expressions_as_classes.html)
 * [From expressions to machine learning]()
 * [Machine learning with PyTorch]()
 
