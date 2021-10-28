@@ -24,8 +24,7 @@ Copyright 2019-21, [Luca de Alfaro](https://luca.dealfaro.com). [License: CC BY-
 
 * [Mathematical expressions](3_1_mathematical_expressions.html)
 * [Expressions as classes](3_2_expressions_as_classes.html)
-* [From expressions to machine learning]()
-* [Machine learning with PyTorch]()
+* [From expressions to machine learning](3_3_from_expressions_to_machine_learning.html)
 
 ## Part IV: Graphs and Dynamic Algorithms
 
