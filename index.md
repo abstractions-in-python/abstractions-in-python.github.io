@@ -29,9 +29,8 @@ Copyright 2019-21, [Luca de Alfaro](https://luca.dealfaro.com). [License: CC BY-
 ## Part IV: Graphs and Dynamic Algorithms
 
 * [Graphs](4_1_graphs.html)
-* [Scheduling with dependencies]()
-* [Cooking times and dynamic programming]()
-* [Finding a route in a graph]()
+* [Scheduling with dependencies](4_2_scheduling_with_dependencies.html)
+* [Cooking times and dynamic programming](4_3_cooking_times_and_dynamic_programming.html)
 
 ## Part V: Search
 
