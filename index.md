@@ -35,8 +35,8 @@ Copyright 2019-21, [Luca de Alfaro](https://luca.dealfaro.com). [License: CC BY-
 ## Part V: Search
 
 * [Sudoku](5_1_sudoku.html)
-* [SAT]()
-* [From Sudoku to SAT]()
+* [SAT](5_2_SAT.html)
+* [From Sudoku to SAT](5_3_From_Sudoku_to_SAT.html)
 
 ## Other topics
 
