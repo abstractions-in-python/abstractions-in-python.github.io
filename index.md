@@ -17,6 +17,7 @@ Copyright 2019-22, [Luca de Alfaro](https://luca.dealfaro.com). [License: CC BY-
 
 * [Classes](2_1_classes.html) 
 * [Sock drawers and arithmetic dictionaries](2_2_sock_drawers.html)
+* [Counting stacks and queues](2_21_counting_stacks_and_queues.html)
 * [Event-driven simulation](2_3_event_driven_simulation.html)
 * [Stream averages and motion detection](2_5_stream_averages_and_motion_detection.html)
 
