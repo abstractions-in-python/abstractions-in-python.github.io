@@ -8,5 +8,5 @@ Graphs are one of the basic data structures of computer science.  Here, we learn
 
 ## Videos
 
-* [Graphs and Reachability](https://drive.google.com/file/d/1DwadeyS50UXRhUgQvMgNNQVIv6qq4xCf/view?usp=sharing)
+* [Graphs and Reachability](https://drive.google.com/file/d/1aRm5M4siM6eSCeAgWrC9vipHzP5y38UL/view?usp=drive_link)
 

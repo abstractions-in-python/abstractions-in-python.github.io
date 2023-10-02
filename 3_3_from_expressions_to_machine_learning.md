@@ -10,10 +10,10 @@ We will then see how to carry out ML training in the (real) PyTorch, and we will
 
 ## Videos
 
-* [Building an ML Framework](https://drive.google.com/file/d/1Z4gbGAIEJqStQYpNGA1fcBdiGBkBuI3V/view?usp=sharing)
-* [Implementing an ML Framework](https://drive.google.com/file/d/1OVc5HlUteAIMxXt780Zxt7YlF7XVBgKr/view?usp=sharing)
-* [ML with PyTorch](https://drive.google.com/file/d/1wKV6aQ3UZk331bq9QtjQJu95-gdSzj2o/view?usp=sharing)
-* [Convolutional Nets](https://drive.google.com/file/d/1T585nXHpAJPFGgra7XuoMQj0zy9Jkzuj/view?usp=sharing)
+* [Building an ML Framework](https://drive.google.com/file/d/1a2_dGAmG1NpnqLLxENX66-lKuWzAkkJu/view?usp=drive_link)
+* [Implementing an ML Framework](https://drive.google.com/file/d/1dlSpB8qF2FpbfsA8kX7xLY4GLsb0H5nH/view?usp=drive_link)
+* [ML with PyTorch](https://drive.google.com/file/d/1_oTg1c8PsZP37bQlSX0btm894S7vp5T5/view?usp=drive_link)
+* [Convolutional Nets](https://drive.google.com/file/d/1a9maRsdTnm_R99xPzEEP4nXnyCrOUbBD/view?usp=drive_link)
 
 ## Resources
 

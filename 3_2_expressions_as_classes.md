@@ -9,4 +9,4 @@ In this chapter, we describe a more refined representation for expressions, via 
 
 ## Videos
 
-* [Expressions as Classes](https://drive.google.com/file/d/159l0GcfcTOJRzKukqK0Z8DzZwO8KJduW/view?usp=sharing)
+* [Expressions as Classes](https://drive.google.com/file/d/1aEj-3q08SUaWYfxwXl-CMkhg8SjUGLL2/view?usp=drive_link)
