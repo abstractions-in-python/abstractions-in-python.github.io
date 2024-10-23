@@ -17,6 +17,6 @@ In this chapter, we learn how to compute statistics of streaming data, and apply
 
 ## Videos
 
-* [A very brief introduction to Numpy](https://drive.google.com/file/d/1dlUubH4bj1RqcU6OqsKFqLeE4JgwfUYD/view?usp=drive_link)
-* [Stream Averages](https://drive.google.com/file/d/1e1moFnkWnTs738-ROlfKpCJEjEl2gX_F/view?usp=drive_link)
-* [Motion Detection](https://drive.google.com/file/d/1dmRXundW1PxrD6g-zKpQ1LGMPdtRAODr/view?usp=drive_link)
+* [A very brief introduction to Numpy](https://youtu.be/mh6iH_c5Grw)
+* [Stream Averages](https://youtu.be/xSRQ7amURuw)
+* [Motion Detection](https://youtu.be/fH9M49K6fvM)

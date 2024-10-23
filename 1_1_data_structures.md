@@ -7,7 +7,7 @@
 
 ## Video
 
-* [Data Structures and Their Access Characteristics](https://drive.google.com/file/d/1aE_dZ1Np7dwsohUuoBM8puITeBPFx01q/view?usp=drive_link)
+* [Data Structures and Their Access Characteristics](https://youtu.be/43CjLmAaITc)
 
 ## To learn more
 

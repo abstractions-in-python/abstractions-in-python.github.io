@@ -9,7 +9,7 @@ In this chapter, we develop a class to model a sock drawer - a drawer where one 
 
 ## Video
 
-* [Sock Drawers and Arithmetic Dictionaries](https://drive.google.com/file/d/1dxFS2k1XeIhklqcKQv0QWhqVXI-Qq4TL/view?usp=drive_link).
+* [Sock Drawers and Arithmetic Dictionaries](https://youtu.be/5L1RjI8L3Z0).
 
 ## To learn more 
 

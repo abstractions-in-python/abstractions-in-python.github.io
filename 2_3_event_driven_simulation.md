@@ -9,8 +9,8 @@ In this chapter, we develop a simple [event-driven simulator](https://en.wikiped
 
 ## Video
 
-* [Event-Driven Simulation](https://drive.google.com/file/d/1n9zdox5uqT4MquW7bpbUq1Xi9mDwqNjv/view?usp=drive_link)
-* [A Parenthesis: Random Delay Distributions](https://drive.google.com/file/d/1nLwEgKQjtzN40d7u0lERykIQr7xpoubn/view?usp=drive_link)
+* [Event-Driven Simulation](https://youtu.be/xW-LbcEL0eY)
+* [A Parenthesis: Random Delay Distributions](https://youtu.be/i8RUYMVoA3U)
 * [An Example: Customer - Queue - Worker Networks](https://drive.google.com/file/d/1nLy5CUZ_KE75bxi9YqEmTxshzSIf1uo9/view?usp=drive_link)
 
 ## Resources

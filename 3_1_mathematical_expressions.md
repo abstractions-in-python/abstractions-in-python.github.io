@@ -11,4 +11,4 @@ We begin by introducing a simple representation for expressions, via tuples.  On
 
 ## Video
 
-* [Mathematical Expressions](https://drive.google.com/file/d/1dm1ZpCC8MG_zlsUg06m4Zi8s7KLDP6zV/view?usp=drive_link)
+* [Mathematical Expressions](https://youtu.be/QWdAfoNBMW0)

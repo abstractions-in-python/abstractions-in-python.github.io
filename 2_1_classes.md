@@ -9,7 +9,7 @@ In this chapter, we present a more in-depth view of classes.  Topics include sta
 
 ## Videos
 
-* [Classes](https://drive.google.com/file/d/1a8GnnG33hNbRlkPRz--q4BvZp3seRDqt/view?usp=drive_link)
+* [Classes](https://youtu.be/fvcpBLWNG7s)
 
 ## To learn more 
 
